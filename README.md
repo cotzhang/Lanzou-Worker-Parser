@@ -1,5 +1,7 @@
 # Lanzou-Worker-Parser
 Inspired by [hanximeng](https://github.com/hanximeng/LanzouAPI/commits?author=hanximeng)'s PHP [LanzouAPI](https://github.com/hanximeng/LanzouAPI/tree/master)
+## Tips
+IF YOU LIKE IT OR THIS HELPED YOU, PLEASE GIVE ME A STAR!! THANKS!
 ## 用法
 直接在Cloudflare Workers部署workers.js即可，完全免费
 ## 功能
